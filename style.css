@@ -1,0 +1,21 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    font-size: 30px;
+    color: black;
+    border-radius: 10px;
+}
+.note
+{
+    font-family: cursive;
+}
+canvas
+{
+    background-color: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
